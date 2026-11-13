@@ -5,7 +5,7 @@ Diplomato presso l'**ITS Apulia Digital Maker** (Developer 4.0) con esperienza i
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -22,16 +22,16 @@ Diplomato presso l'**ITS Apulia Digital Maker** (Developer 4.0) con esperienza i
 
 ---
 
-### 🔬 Artificial Intelligence & Medical Imaging (R&D Experience)
+### Artificial Intelligence & Medical Imaging (R&D Experience)
 
 Durante il mio percorso di Ricerca & Sviluppo (Progetto **SymbAH** presso **Lutech**), mi sono occupato dello sviluppo di pipeline di Deep Learning applicate alla diagnostica neuro-radiologica (repository pubbliche consultabili qui sotto):
 
-* 🧠 **`alzheimer-mri-ai` & `MRI-PromptAI`:** Sviluppo e addestramento di modelli in **Python e PyTorch** per la classificazione di risonanze magnetiche (MRI 3D NIfTI) legate all'Alzheimer (**87% di accuratezza**), con integrazione di tecniche di **Explainable AI (Grad-CAM)** e validazione automatizzata tramite prompt engineering (**Med-Gemma**).
-* 🏥 **`StrategyB-MRI` & `Nii_Labeling`:** Pipeline in Python per il pre-processing, l'etichettatura e la data augmentation 3D di volumi cerebrali NIfTI per ottimizzare la generalizzazione dei modelli.
+*  **`alzheimer-mri-ai` & `MRI-PromptAI`:** Sviluppo e addestramento di modelli in **Python e PyTorch** per la classificazione di risonanze magnetiche (MRI 3D NIfTI) legate all'Alzheimer (**87% di accuratezza**), con integrazione di tecniche di **Explainable AI (Grad-CAM)** e validazione automatizzata tramite prompt engineering (**Med-Gemma**).
+*  **`StrategyB-MRI` & `Nii_Labeling`:** Pipeline in Python per il pre-processing, l'etichettatura e la data augmentation 3D di volumi cerebrali NIfTI per ottimizzare la generalizzazione dei modelli.
 
 ---
 
-### 🚀 Featured Software Projects (Full-Stack, Mobile & Cloud)
+###  Featured Software Projects (Full-Stack, Mobile & Cloud)
 
 > *Nota: Le repository dei progetti seguenti sono mantenute **Private** per tutela della proprietà intellettuale e delle chiavi di produzione. Demo live e walkthrough del codice sono disponibili in sede di colloquio.*
 
@@ -49,5 +49,5 @@ Durante il mio percorso di Ricerca & Sviluppo (Progetto **SymbAH** presso **Lute
 
 ---
 
-### 📫 Contatti
-* 📧 **Email:** [nicolopetruzzella605@gmail.com](mailto:nicolopetruzzella605@gmail.com)
+### Contatti
+*  **Email:** [nicolopetruzzella605@gmail.com](mailto:nicolopetruzzella605@gmail.com)
