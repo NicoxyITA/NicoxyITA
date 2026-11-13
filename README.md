@@ -1,7 +1,7 @@
-# Hi there, I'm Nicolò Antonio Petruzzella 👋
-### 💻 Junior Software Developer & AI Engineer | 📍 Bari / Molfetta, Italy
+# Hi there, I'm Nicolò Antonio Petruzzella 
+### Junior Software Developer & AI Engineer | 📍 Bari / Molfetta, Italy
 
-Diplomatosi presso l'**ITS Apulia Digital Maker** (Sviluppo Software) con esperienza in **R&D su Deep Learning e Medical Imaging (Lutech)**. Sviluppo applicazioni **Full-Stack Web & Mobile**, pipeline di **Intelligenza Artificiale in Python/PyTorch** e sistemi di **automazione Cloud**.
+Diplomato presso l'**ITS Apulia Digital Maker** (Developer 4.0) con esperienza in **R&D su Deep Learning e Medical Imaging (Lutech)**. Sviluppo applicazioni **Full-Stack Web & Mobile**, pipeline di **Intelligenza Artificiale in Python/PyTorch** e sistemi di **automazione Cloud**.
 
 ---
 
